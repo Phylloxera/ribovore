@@ -1,0 +1,27 @@
+#proposed extended versions of existing mitochondria SSU models
+#partial justification in forthcoming manuscript though at present these models are not mentioned
+#methods not yet written
+#perceived to have improved cmstats
+#improves typing to "mitochondria" generally though typing to the "correct" mitochondria often still very infrequently
+#mito_pr_i1.enone.cm
+#mito-protist.stk
+#mito_ch_i1.enone.cm
+#mito-chlorophyta.stk
+#mito_pl_i1.enone.cm
+#mito-plant.stk
+
+#proposed extended version of an existing mitochondria SSU model
+#may improve typing to "mitochondria" generally
+#methods not yet written
+#perceived to have improved cmstats
+#mito_f_i1.enone.cm
+#mito-fungi.stk
+
+#proposed additional mitochondria metazoa SSU model
+#significantly shorter than published model
+#may improve typing to "mitochondria" generally when both models are included in suite
+#methods not yet written
+#cmsearch of the unweighted model against >15,000 refseq genomes yields >1,800 additional full-model hits
+#mito_protostome.enone.cm
+#mito_protostome.edf.cm
+#mito-protostome.stk
